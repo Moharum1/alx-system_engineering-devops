@@ -3,7 +3,7 @@
 
 hours=0
 min=0
-while [ $hours -ne 25 ]
+while [ $hours -ne 13 ]
 do 
     echo "Hour: $hours"
     min=0
