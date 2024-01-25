@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 # This script is displaying "Best School" 10 times
 
-file_path="school.txt"
+file_path="school"
 
 # Check if the file exists
 if [ -e "$file_path" ]; then
