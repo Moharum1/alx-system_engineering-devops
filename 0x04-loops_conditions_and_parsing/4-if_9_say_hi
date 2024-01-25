@@ -4,10 +4,9 @@
 var=0
 while [ $var -ne 10 ]
 do 
+    echo "Best School"
     if [ $var -eq 8 ]
         then echo "Hi"
-    else
-       echo "Best School" 
     fi
     var=$((var + 1))
 done
