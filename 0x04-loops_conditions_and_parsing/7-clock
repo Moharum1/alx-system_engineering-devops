@@ -1,8 +1,8 @@
 #!/usr/bin/env bash
-# Display numbers from 1 to 10
+#Display hours from 0 to 12 and minutes from 0 to 59
 
 hours=0
-min=0
+
 while [ $hours -ne 13 ]
 do 
     echo "Hour: $hours"
